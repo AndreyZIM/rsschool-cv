@@ -6,7 +6,7 @@ Telegram: https://t.me/zaxaren
 VK: https://vk.com/zaxaren0
 
 Email: zaxarenkoandrey@gmail.com
-***
+
 ## Summary
 
 ### Сurrent goal - become a professional Android developer
@@ -25,13 +25,13 @@ Email: zaxarenkoandrey@gmail.com
 Aerospace radio-electronic and information systems and technologies 
 
 2019 - Present
-***
+
 ## Cources
 **Android 2021**
 Rolling Scopes School 
 
 2021 - Present
-***
+
 ## Languages
 **Russian** - native
 
