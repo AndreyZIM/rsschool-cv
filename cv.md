@@ -9,8 +9,8 @@ Email: zaxarenkoandrey@gmail.com
 
 ## Summary
 
-### Сurrent goal - become a professional Android developer
-### Trying to find great people with the same mindset to work with.
+* Сurrent goal - become a professional Android developer
+* Trying to find great people with the same mindset to work with.
 ---
 ## Skills
 * C++
